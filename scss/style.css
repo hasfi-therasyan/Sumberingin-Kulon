@@ -10458,7 +10458,7 @@ h1, h2, h3, h4, h5,
 }
 
 .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
-  font-size: 15px;
+  font-size: 20px;
   padding-top: .9rem;
   padding-bottom: .9rem;
   padding-left: 20px;
@@ -10654,7 +10654,7 @@ h1, h2, h3, h4, h5,
 
 .navbar-brand {
   font-weight: 700;
-  font-size: 20px;
+  font-size: 40px;
   font-family: "Poppins", Arial, sans-serif;
   line-height: 1;
   text-transform: uppercase;
@@ -10662,7 +10662,7 @@ h1, h2, h3, h4, h5,
 
 .navbar-brand span {
   display: block;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 600;
   text-transform: uppercase;
 }
